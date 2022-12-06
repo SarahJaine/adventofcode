@@ -1,4 +1,4 @@
-# https://adventofcode.com/2022/leaderboard/private/view/117047
+# https://adventofcode.com/2022/day/6
 
 # In the protocol being used by the Elves,
 # the start of a packet is indicated by a sequence of 
